@@ -14,6 +14,7 @@
 		638ADA9822FE3EA3005FA8B3 /* ShoppingList.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 638ADA9622FE3EA3005FA8B3 /* ShoppingList.xcdatamodeld */; };
 		638ADA9F22FE4023005FA8B3 /* CoreDataStack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638ADA9E22FE4023005FA8B3 /* CoreDataStack.swift */; };
 		638ADAA122FE4047005FA8B3 /* Item+Convenience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638ADAA022FE4047005FA8B3 /* Item+Convenience.swift */; };
+		638ADAA322FE45B3005FA8B3 /* ItemController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 638ADAA222FE45B3005FA8B3 /* ItemController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		638ADA9722FE3EA3005FA8B3 /* ShoppingList.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = ShoppingList.xcdatamodel; sourceTree = "<group>"; };
 		638ADA9E22FE4023005FA8B3 /* CoreDataStack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CoreDataStack.swift; sourceTree = "<group>"; };
 		638ADAA022FE4047005FA8B3 /* Item+Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Item+Convenience.swift"; sourceTree = "<group>"; };
+		638ADAA222FE45B3005FA8B3 /* ItemController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -85,6 +87,7 @@
 			children = (
 				638ADA9E22FE4023005FA8B3 /* CoreDataStack.swift */,
 				638ADAA022FE4047005FA8B3 /* Item+Convenience.swift */,
+				638ADAA222FE45B3005FA8B3 /* ItemController.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -184,6 +187,7 @@
 				638ADAA122FE4047005FA8B3 /* Item+Convenience.swift in Sources */,
 				638ADA9F22FE4023005FA8B3 /* CoreDataStack.swift in Sources */,
 				638ADA8522FE3E29005FA8B3 /* AppDelegate.swift in Sources */,
+				638ADAA322FE45B3005FA8B3 /* ItemController.swift in Sources */,
 				638ADA9822FE3EA3005FA8B3 /* ShoppingList.xcdatamodeld in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
